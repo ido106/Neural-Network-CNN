@@ -33,7 +33,7 @@ The common types of pooling are [*max* and *average*](https://androidkt.com/expl
 Before diving into the exercise, I recommend reading about CNN [here](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53).  
 <p align="center">
   <img 
-    width="700"
+    width="800"
     src="https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1"
   >
 </p>
